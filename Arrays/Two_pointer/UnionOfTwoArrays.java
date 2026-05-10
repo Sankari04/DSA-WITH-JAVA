@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Solution {
+class UnionOfTwoArrays{
     public static List<Integer> union(int[] arr, int[] brr) {
         int i = 0, j = 0;
         List<Integer> ans = new ArrayList<>();

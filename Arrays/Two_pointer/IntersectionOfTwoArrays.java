@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Solution {
+class IntersectionOfTwoArrays {
     public static List<Integer> intersection(int[] arr, int[] brr) {
         Arrays.sort(arr);
         Arrays.sort(brr);

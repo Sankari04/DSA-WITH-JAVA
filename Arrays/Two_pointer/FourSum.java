@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Solution {
+class FourSum {
     public List<List<Integer>> fourSum(int[] nums, int target) {
         List<List<Integer>> res = new ArrayList<>();
         int n = nums.length;
@@ -53,3 +53,5 @@ class Solution {
         return res;
     }
 }
+
+

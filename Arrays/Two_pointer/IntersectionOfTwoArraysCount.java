@@ -1,5 +1,5 @@
 import java.util.Arrays;
-class Solution {
+class IntersectionOfTwoArraysCount{
     public static int intersectSize(int a[], int b[]) {
         int count=0,i=0,j=0;
         Arrays.sort(a);

@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Solution {
+class removeDuplicates {
     public static ArrayList<Integer> removeDuplicates(int[] arr) {
         HashSet<Integer> set = new HashSet<>();
         ArrayList<Integer> list = new ArrayList<>();
