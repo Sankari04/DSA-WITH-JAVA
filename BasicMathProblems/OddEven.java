@@ -1,3 +1,4 @@
+package BasicMathProblems;
 class Solution{
     boolean isEven(int N){
         if(N%2==0){

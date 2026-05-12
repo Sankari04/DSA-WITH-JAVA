@@ -1,3 +1,4 @@
+package BasicMathProblems;
 class Solution{
     int rev=0;
     int reverse(int N){
