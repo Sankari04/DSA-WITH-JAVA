@@ -87,3 +87,15 @@ I focus on improving solutions from:
 This is a personal learning repository, but suggestions are always welcome!
 
 ⭐ If you find this repository useful, feel free to star it!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Sankari04/DSA-WITH-JAVA/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Sankari04/DSA-WITH-JAVA/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
